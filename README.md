@@ -80,8 +80,8 @@ The roadmap is divided into seven progressive phases, each building upon the kno
    - "Artificial Intelligence: Foundations of Computational Agents" by David Poole and Alan Mackworth
 
 3. **Tutorials**
-   - [Introduction to Autonomous Agents (Berkeley)](http://ai.berkeley.edu/lecture_videos.html)
-   - [OpenAI Gym Tutorials](https://gym.openai.com/docs/)
+   - [Berkeley AI Course Materials](https://inst.eecs.berkeley.edu/~cs188/fa23/)
+   - [Gymnasium Documentation](https://gymnasium.farama.org/content/basic_usage/) (successor to OpenAI Gym)
 
 ### Milestone Project
 **Simple Autonomous Agent**: Create an agent that can navigate a simulated environment to achieve goals.
@@ -132,7 +132,7 @@ The roadmap is divided into seven progressive phases, each building upon the kno
 
 2. **Tutorials**
    - [OpenAI Function Calling Guide](https://platform.openai.com/docs/guides/function-calling)
-   - [LangChain Tools and Agents](https://python.langchain.com/docs/modules/agents/)
+   - [LangChain Agents Documentation](https://python.langchain.com/docs/modules/agents/)
    - [Microsoft Semantic Kernel Planning](https://learn.microsoft.com/en-us/semantic-kernel/agents/planners/)
 
 3. **GitHub Repositories**
@@ -183,9 +183,9 @@ The roadmap is divided into seven progressive phases, each building upon the kno
 
 ### Learning Resources
 1. **Tutorials**
-   - [Deploying LLM Applications (Hugging Face)](https://huggingface.co/docs/transformers/main/en/deployment/index)
+   - [Deploying LLM Applications (Hugging Face)](https://huggingface.co/docs/transformers/main/en/pipeline_tutorial)
    - [FastAPI for ML Services](https://fastapi.tiangolo.com/tutorial/)
-   - [Docker for AI Applications](https://www.docker.com/blog/how-to-dockerize-your-machine-learning-applications/)
+   - [Docker for AI Applications](https://www.docker.com/blog/tag/ai-ml/)
 
 2. **Tools**
    - [LangServe](https://github.com/langchain-ai/langserve)
@@ -216,8 +216,8 @@ The roadmap is divided into seven progressive phases, each building upon the kno
    - "Constitutional AI: Harmlessness from AI Feedback"
 
 2. **Advanced Frameworks**
-   - [Langchain Experimental Features](https://python.langchain.com/docs/experimental/)
-   - [OpenAI Assistants API](https://platform.openai.com/docs/assistants/overview)
+   - [Langchain Experimental Features](https://python.langchain.com/docs/expression_language/)
+   - [OpenAI Assistants API](https://platform.openai.com/docs/assistants/overview/agents)
 
 3. **Research Groups**
    - [Anthropic Safety Research](https://www.anthropic.com/research)
@@ -272,7 +272,7 @@ The roadmap is divided into seven progressive phases, each building upon the kno
   - Features: API creation, Tracing, Monitoring
 
 ### Evaluation Tools
-- **TruLens** - [GitHub](https://github.com/truera/trulens) | [Documentation](https://www.trulens.org/trulens_eval/getting_started/)
+- **TruLens** - [GitHub](https://github.com/truera/trulens) | [Documentation](https://www.trulens.org/)
   - Evaluation framework for LLM applications
   - Features: Feedback functions, Metrics, Dashboards
 
@@ -286,12 +286,12 @@ The roadmap is divided into seven progressive phases, each building upon the kno
 1. **Simple Q&A Agent**
    - Build a basic question-answering agent using an LLM
    - Skills: API integration, prompt engineering
-   - [Tutorial Link](https://platform.openai.com/docs/tutorials/web-qa-assistant)
+   - [Tutorial Link](https://platform.openai.com/docs/guides/function-calling)
 
 2. **Personal Knowledge Base**
    - Create a system to store and retrieve personal notes and information
    - Skills: RAG, document processing, semantic search
-   - [Tutorial Link](https://python.langchain.com/docs/use_cases/question_answering/)
+   - [Tutorial Link](https://python.langchain.com/docs/use_cases/question_answering)
 
 ### Intermediate Projects
 3. **Research Assistant**
@@ -302,7 +302,7 @@ The roadmap is divided into seven progressive phases, each building upon the kno
 4. **Personal Productivity Assistant**
    - Develop an agent to help with daily tasks, calendar management, and email organization
    - Skills: API integration, task planning, natural language understanding
-   - [Tutorial Link](https://python.langchain.com/docs/integrations/tools/)
+   - [Tutorial Link](https://python.langchain.com/docs/integrations/tools)
 
 ### Advanced Projects
 5. **Multi-Agent Collaboration System**
@@ -313,12 +313,12 @@ The roadmap is divided into seven progressive phases, each building upon the kno
 6. **Domain-Specific Expert System**
    - Build an agent specialized in a particular domain (legal, medical, financial)
    - Skills: Domain knowledge integration, RAG, reasoning
-   - [Tutorial Link](https://python.langchain.com/docs/use_cases/extraction/)
+   - [Tutorial Link](https://python.langchain.com/docs/use_cases/extraction)
 
 7. **Autonomous Business Analyst**
    - Create a system that can analyze business data, generate reports, and make recommendations
    - Skills: Data processing, visualization, reasoning, tool use
-   - [GitHub Example](https://github.com/hwchase17/langchain-visualizer)
+   - [GitHub Example](https://github.com/langchain-ai/langchain/tree/master/templates)
 
 ## 📚 Learning Resources
 
@@ -405,7 +405,7 @@ The roadmap is divided into seven progressive phases, each building upon the kno
 - [OpenAI API Documentation](https://platform.openai.com/docs/introduction)
 - [Hugging Face Documentation](https://huggingface.co/docs)
 - [Prompt Engineering Guide](https://www.promptingguide.ai/)
-- [Microsoft AI Learning Paths](https://learn.microsoft.com/en-us/training/paths/ai-fundamentals/)
+- [Microsoft AI Learning Paths](https://learn.microsoft.com/en-us/training/browse/?products=ai-services)
 - [LlamaIndex Documentation](https://docs.llamaindex.ai/)
 - [CrewAI Documentation](https://docs.crewai.com/)
 - [AutoGen Documentation](https://microsoft.github.io/autogen/)
@@ -445,12 +445,12 @@ The roadmap is divided into seven progressive phases, each building upon the kno
 - [3Blue1Brown](https://www.youtube.com/c/3blue1brown) - For mathematical concepts
 - [Lex Fridman Podcast](https://www.youtube.com/c/lexfridman) - Interviews with AI researchers
 - [Machine Learning Street Talk](https://www.youtube.com/c/MachineLearningStreetTalk)
-- [The AI Advantage](https://www.youtube.com/channel/UCYBSa2EpVP5-J7zXy8182yA)
+- [AI Explained](https://www.youtube.com/c/@aiexplained-official)
 - [Computerphile](https://www.youtube.com/user/Computerphile) - AI and CS concepts
 - [sentdex](https://www.youtube.com/c/sentdex) - Python and ML tutorials
 - [CodeEmporium](https://www.youtube.com/c/CodeEmporium) - ML concepts and implementations
 - [AssemblyAI](https://www.youtube.com/c/AssemblyAI) - LLM tutorials and news
-- [AI Explained](https://www.youtube.com/c/AIExplained-official)
+- [Weights & Biases](https://www.youtube.com/c/WeightsBiases)
 
 ### Open Source Projects & Repositories
 - [LangChain](https://github.com/langchain-ai/langchain) - Building applications with LLMs
@@ -484,7 +484,7 @@ The roadmap is divided into seven progressive phases, each building upon the kno
 - [NeurIPS](https://neurips.cc/)
 - [ICLR](https://iclr.cc/)
 - [ACL](https://www.aclweb.org/portal/acl)
-- [LangChain Conference](https://langchain.com/conference/)
+- [LangChain Community](https://github.com/langchain-ai/langchain/discussions)
 - [Applied Machine Learning Conference](https://www.appliedmldays.org/)
 
 ### Contributing to This Roadmap
